@@ -1,0 +1,31 @@
+_repo: Swallow--A-Tale-of-the-Great-Trek_4074
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2006-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- History -- Great Trek, 1836-1840 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Transvaal (South Africa) -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: 'Swallow: A Tale of the Great Trek'
+url: http://www.gutenberg.org/ebooks/4074
